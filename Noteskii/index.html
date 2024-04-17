@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noteskee</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <h1>Noteskee</h1>
+    </div>
+    <div class="Container">
+        <div class="Container-box">
+        <h2>Yamaha R15 v3</h2>
+        <h5>Riffat</h5>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex at voluptates harum iusto, eius atque fuga quos, laudantium eaque quo illum, omnis totam necessitatibus corrupti quia tempora dolorem tempore accusantium!</p>
+        <button id="DeleteWhole" onclick="delNotes(event)">Delete</button>
+        
+        </div>      
+    </div>
+
+    <button id="add">+</button>
+    <div class="popup-Overlay"></div>
+    <div class="popup-Box">
+        <h2>Add Bike Name</h2>
+        <form>
+            <input type="text" placeholder="Enter your bike name" id="bike-name-input">
+            <input type="text" placeholder="Enter ur Bike Owner" id="bike-owner-input">
+            <textarea placeholder="Short Description about ur bike" id="bike-description"></textarea>
+            <button id="add-bike">ADD</button>
+            <button id="delete">DELETE</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
