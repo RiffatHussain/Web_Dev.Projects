@@ -1,0 +1,60 @@
+
+.Resume-Form-Page {
+    background-color: beige;
+    border: 2px solid black;
+    width: 1000px;
+    height: 1400px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.Main-Data {
+  width: 300px;
+  height: 400px;
+  background-color: rgb(37, 167, 242);
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+h1 {
+  color: white;
+  font-size: larger;
+  padding-left: 10px;
+  
+}
+p {
+  color: white;
+  font-size: medium;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.Below-MainContent {
+  width: 300px;
+  height: 1000px;
+  background-color: rgba(229, 219, 219, 0.868);
+  display: inline-block;
+}
+.Below-MainContent h2, h3, p , h1 {
+  color: black;
+  margin-left: 10px;
+}
+.sideContent {
+  background-color: white;
+  width: 700px;
+  height: 1400px;
+  font-size: large;
+}
+.sideContent h2 , h4, h5 {
+  margin-left: 20px;
+}
+.bottom-Space {
+    margin-top: 100%;
+    width: 100px;
+    height: 200px;
+   
+}
