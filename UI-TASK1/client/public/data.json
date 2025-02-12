@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name" : "Puppy Gadgets Combo",
+        "price": "$2",
+        "description": "This is a combo of puppy gadgets",
+        "image": "./image/image-1.jpg"   
+    },
+    {
+        "id": 2,
+        "name" : "Puppy Toys Combo",
+        "price": "$3",
+        "description": "This is a combo of puppy toys",
+        "image": "./image/image-2.jpg"
+    },
+    {
+        "id": 3,
+        "name" : "Puppy Food Combo",
+        "price": "$4",
+        "description": "This is a combo of puppy food",
+        "image": "./image/image-3.jpg"
+    },
+    {
+        "id": 4,
+        "name" : "Pet House",
+        "price": "$5",
+        "description": "This is a pet house",
+        "image": "/image/pet-house.jpg"
+    },
+    {
+        "id": 5,
+        "name" : "Pet Swinger",
+        "price": "$5",
+        "description": "This is a pet Swinger",
+        "image": "/image/Pet-swinger.jpeg"
+    },
+    {
+        "id": 6,
+        "name" : "Puppy Vest",
+        "price": "$10",
+        "description": "This is a pet vest made for its beauty nad safety",
+        "image": "/image/pet-vest.jpg"
+    },
+    {
+        "id": 7,
+        "name" : "Bow Cute Collar",
+        "price": "$7",
+        "description": "Especially designed for cats and dogs",
+        "image": "/image/Bow-cute-collar.jpg"
+    },
+    {
+        "id": 8,
+        "name" : "Cat-Hanging-bed",
+        "price": "$5",
+        "description": "Especially designed for the cats",
+        "image": "/image/Cat-hanging-bed.jpg"
+    },
+    {
+        "id": 9,
+        "name" : "Collar & Leash",
+        "price": "$12",
+        "description": "Collar and Leash for its unique identity and style, improves your pet beauty",
+        "image": "/image/Collar-Leash_set.jpg"
+    }
+]
