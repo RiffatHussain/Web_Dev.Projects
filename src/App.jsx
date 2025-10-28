@@ -7,7 +7,7 @@ export default function App() {
         Hello from My Landing Page 🚀
       </h1>
       <h1 className="text-6xl font-bold mb-4 drop-shadow-lg">
-        The github manual test is successful!
+        The github manual test by satham
       </h1>
       <p className="text-xl opacity-90">
         Welcome to your beautiful React app running on your server 💫
